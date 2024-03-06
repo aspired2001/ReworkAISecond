@@ -1,3 +1,12 @@
+1. Clone it to your local repository
+2. cd reworkAISecond
+2. npm install
+3. npm run dev
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
